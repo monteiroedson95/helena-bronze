@@ -1,0 +1,7 @@
+LANDING PAGE HELENA BRONZE
+
+Envie curso.html e foto-1.jpg a foto-7.jpg para a raiz do repositório helena-bronze no GitHub.
+No index.html, altere o link Cursos para href="curso.html".
+A página estará em https://helena-bronze.vercel.app/curso.html
+
+Não renomeie as imagens.
